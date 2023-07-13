@@ -4,13 +4,14 @@ Create a web page that displays the PHP projects on GitHub which have the most s
 # Steps to run the file
 
 1. First of all clone or download this repo
-2. Then extract the files on your desktop
-3. Then open the project in VS Code Editor and open the new terminal (CTRL+SHIFT+\` for windows & CMD+SHIFT+` for MAC users)
-4. For running this project type the following command in the terminal window `docker-compose up -d`
-5. The docker will take a control of the environment
-6. For accessing the front end type the following URL into any modern web browser `localhost:80` This will load the front end of the assessment
-7. For accessing the database, please type the following URL in the browser `localhost:8080`.
-8. The login is as follows: `server = db` , `username = root` and `password = root`
+2. Then install the docker application
+3. Then extract the files on your desktop
+4. Then open the project in VS Code Editor and open the new terminal (CTRL+SHIFT+\` for windows & CMD+SHIFT+` for MAC users)
+5. For running this project type the following command in the terminal window `docker-compose up -d`
+6. The docker will take a control of the environment
+7. For accessing the front end type the following URL into any modern web browser `localhost:80` This will load the front end of the assessment
+8. For accessing the database, please type the following URL in the browser `localhost:8080`.
+9. The login is as follows: `server = db` , `username = root` and `password = root`
 
 # Working flow of the assessment
 
